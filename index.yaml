@@ -1,0 +1,18 @@
+indexes:
+
+- kind: Words
+  properties:
+  - name: word_form
+  - name: nom
+
+- kind: Products2
+  properties:
+  - name: product
+  - name: extension
+  - name: category
+
+#
+#- kind: Note
+#  properties:
+#  - name: req_id
+#  - name: list_id

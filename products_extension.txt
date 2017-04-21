@@ -1,0 +1,137 @@
+ananas|warzywa_owoce
+ananas|puszka|przetwory_owocowe
+ananas|zalewa|przetwory_owocowe
+ananas|kawałek|przetwory_owocowe
+ananas|plaster|przetwory_owocowe
+arbuz|warzywa_owoce
+avocado|warzywa_owoce
+awokado|warzywa_owoce
+bakłażan|warzywa_owoce
+banan|warzywa_owoce
+banan|suszyć|desery_wypieki
+bazylia|przyprawy
+bazylia|doniczka|warzywa_owoce
+bazylia|donica|warzywa_owoce
+borówka|warzywa_owoce
+brokuł|warzywa_owoce
+brokuł|mrozić|mrożonki
+brzoskwinia|warzywa_owoce
+brzoskwinia|puszka|przetwory_owocowe
+brzoskwinia|zalewa|przetwory_owocowe
+brzoskwinia|połówka|przetwory_owocowe
+burak|warzywa_owoce
+cebula|warzywa_owoce
+chrzan|warzywa_owoce
+chrzan|trzeć|sosy_oleje_ocet
+cukinia|warzywa_owoce
+cykoria|warzywa_owoce
+cytryna|warzywa_owoce
+czosnek|warzywa_owoce
+czosnek|marynować|przetwory_warzywne
+czosnek|granulować|przyprawy
+czosnek|kostka|przyprawy
+czosnek|młynek|przyprawy
+czosnek|olej|przetwory_warzywne
+granat|warzywa_owoce
+grejpfrut|warzywa_owoce
+gruszka|warzywa_owoce
+imbir|warzywa_owoce
+imbir|mielić|przyprawy
+imbir|kandyzować|desery_wypieki
+jarmuż|warzywa_owoce
+kaki|warzywa_owoce
+kalafior|warzywa_owoce
+kalafior|mrozić|mrożonki
+kalarepa|warzywa_owoce
+kapusta|warzywa_owoce
+kiełek|warzywa_owoce
+kiełek|fasola|przetwory_warzywne
+kiwi|warzywa_owoce
+kokos|warzywa_owoce
+koperek|warzywa_owoce
+limonka|warzywa_owoce
+lubczyk|przyprawy
+lubczyk|doniczka|warzywa_owoce
+lubczyk|donica|warzywa_owoce
+majeranek|przyprawy
+majeranek|doniczka|warzywa_owoce
+majeranek|donica|warzywa_owoce
+malina|warzywa_owoce
+mandarynka|warzywa_owoce
+marchewka|warzywa_owoce
+marchew|warzywa_owoce
+marchewka|mrozić|mrożonki
+melisa|herbata_kawa_kakao
+melisa|doniczka|warzywa_owoce
+melisa|donica|warzywa_owoce
+melon|warzywa_owoce
+natka|warzywa_owoce
+nektaryna|warzywa_owoce
+nektarynka|warzywa_owoce
+ogórek|warzywa_owoce
+ogórek|konserwowy|przetwory_warzywne
+ogórek|korniszon|przetwory_warzywne
+oregano|przyprawy
+oregano|doniczka|warzywa_owoce
+papaja|warzywa_owoce
+papryczka|warzywa_owoce
+papryka|warzywa_owoce
+papryka|słodki|przyprawy
+papryka|ostry|przyprawy
+papryka|konserwowy|przetwory_warzywne
+papryka|marynować|przetwory_warzywne
+pietruszka|warzywa_owoce
+pitaja|warzywa_owoce
+pomarańcz|warzywa_owoce
+pomidorek|warzywa_owoce
+pomidor|warzywa_owoce
+pomidor|skórka|przetwory_warzywne
+pomidor|skóra|przetwory_warzywne
+pomidor|puszka|przetwory_warzywne
+pomidor|kroić|przetwory_warzywne
+pomidor|suszyć|przetwory_warzywne
+por|warzywa_owoce
+rabarbar|warzywa_owoce
+roszponka|warzywa_owoce
+rukola|warzywa_owoce
+rzodkiewka|warzywa_owoce
+rzodkiew|warzywa_owoce
+sałata|warzywa_owoce
+seler|warzywa_owoce
+seler|konserwowy|przetwory_warzywne
+smoczy|owoc|warzywa_owoce
+szałwia|herbata_kawa_kakao
+szałwia|doniczka|warzywa_owoce
+szałwia|donica|warzywa_owoce
+szczypiorek|warzywa_owoce
+szczypior|warzywa_owoce
+szparag|warzywa_owoce
+szpinak|warzywa_owoce
+szpinak|mrozić|mrożonki
+szpinak|liść|mrożonki
+szpinak|brykiet|mrożonki
+szpinak|rozdrobnić|mrożonki
+truskawka|warzywa_owoce
+truskawka|mrozić|mrożonki
+tymianek|przyprawy
+tymianek|doniczka|warzywa_owoce
+tymianek|donica|warzywa_owoce
+winogrono|warzywa_owoce
+włoszczyzna|warzywa_owoce
+włoszczyzna|mrozić|mrożonki
+ziemniak|warzywa_owoce
+śliwka|warzywa_owoce
+śliwka|suszyć|desery_wypieki
+śliwka|mrozić|mrożonki
+jabłko|warzywa_owoce <- manualnie
+kolendra|przyprawy <- manualnie
+kolendra|doniczka|warzywa_owoce <- manualnie
+kolendra|donica|warzywa_owoce <- manualnie
+mango|warzywa_owoce <- manualnie
+morela|warzywa_owoce <- manualnie
+morela|suszyć|desery_wypieki <- manualnie
+wiśnia|warzywa_owoce <- manualnie
+wiśnia|mrozić|mrożonki <- manualnie
+mięta|herbata_kawa_kakao <- manualnie
+mięta|doniczka|warzywa_owoce <- manualnie
+mięta|donica|warzywa_owoce <- manualnie

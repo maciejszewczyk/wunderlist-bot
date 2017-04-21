@@ -1,0 +1,5 @@
+cron:
+- description: "Check new invitations"
+  url: /update
+  schedule: every 1 minutes
+  timezone: Europe/Warsaw

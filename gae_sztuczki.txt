@@ -1,0 +1,6 @@
+X-AppEngine-TaskRetryCount
+X-AppEngine-TaskExecutionCount
+X-AppEngine-TaskETA
+X-AppEngine-FailFast
+
+python "C:\Program Files (x86)\Google\google_appengine\dev_appserver.py" --clear_datastore=yes wunderlist
